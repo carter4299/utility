@@ -1,0 +1,47 @@
+Average time of reading whole File: 0.1049s
+Average memory of reading whole File: 11.4578mb
+
+-------------------------------------------------------------
+
+
+-------------------------------------------------------------
+
+Average time of reading Chunk File 1: 0.0153s
+Average memory of reading Chunk File 1: 0.6382mb
+
+Average time of reading Chunk File 2: 0.0149s
+Average memory of reading Chunk File 2: 0.7974mb
+
+Average time of reading Chunk File 3: 0.0144s
+Average memory of reading Chunk File 3: 0.6691mb
+
+Average time of reading Chunk File 4: 0.0145s
+Average memory of reading Chunk File 4: 0.6248mb
+
+Average time of reading Chunk File 5: 0.0149s
+Average memory of reading Chunk File 5: 0.6566mb
+
+Average time of reading Chunk File 6: 0.0149s
+Average memory of reading Chunk File 6: 0.8081mb
+
+Average time of reading Chunk File 7: 0.0146s
+Average memory of reading Chunk File 7: 0.6704mb
+
+Average time of reading Chunk File 8: 0.0146s
+Average memory of reading Chunk File 8: 0.6678mb
+
+Average time of reading Chunk File 9: 0.0146s
+Average memory of reading Chunk File 9: 0.8856mb
+
+Average time of reading Chunk File 10: 0.0146s
+Average memory of reading Chunk File 10: 0.8895mb
+
+-------------------------------------------------------------
+
+Average time of reading a Chunk File: 0.0147s
+Average memory of reading a Chunk File: 0.7307mb
+
+-------------------------------------------------------------
+
+Time of reading all Chunk Files: 0.1441s
+Memory of reading all Chunk Files: 19.1445mb

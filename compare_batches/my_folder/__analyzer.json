@@ -1,0 +1,93 @@
+[
+  [
+    "Whole File",
+    {
+      "avg_time": 0.1049,
+      "avg_memory": 11.4578
+    }
+  ],
+  [
+    "Chunk File 1",
+    {
+      "avg_time": 0.0153,
+      "avg_memory": 0.6382
+    }
+  ],
+  [
+    "Chunk File 2",
+    {
+      "avg_time": 0.0149,
+      "avg_memory": 0.7974
+    }
+  ],
+  [
+    "Chunk File 3",
+    {
+      "avg_time": 0.0144,
+      "avg_memory": 0.6691
+    }
+  ],
+  [
+    "Chunk File 4",
+    {
+      "avg_time": 0.0145,
+      "avg_memory": 0.6248
+    }
+  ],
+  [
+    "Chunk File 5",
+    {
+      "avg_time": 0.0149,
+      "avg_memory": 0.6566
+    }
+  ],
+  [
+    "Chunk File 6",
+    {
+      "avg_time": 0.0149,
+      "avg_memory": 0.8081
+    }
+  ],
+  [
+    "Chunk File 7",
+    {
+      "avg_time": 0.0146,
+      "avg_memory": 0.6704
+    }
+  ],
+  [
+    "Chunk File 8",
+    {
+      "avg_time": 0.0146,
+      "avg_memory": 0.6678
+    }
+  ],
+  [
+    "Chunk File 9",
+    {
+      "avg_time": 0.0146,
+      "avg_memory": 0.8856
+    }
+  ],
+  [
+    "Chunk File 10",
+    {
+      "avg_time": 0.0146,
+      "avg_memory": 0.8895
+    }
+  ],
+  [
+    "Average Chunk File",
+    {
+      "avg_time": 0.0147,
+      "avg_memory": 0.7307
+    }
+  ],
+  [
+    "All Chunk Files",
+    {
+      "avg_time": 0.1441,
+      "avg_memory": 19.1445
+    }
+  ]
+]
